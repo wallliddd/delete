@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/voetzaal/static/css/main.073c9b0a.css",
+    "main.js": "/voetzaal/static/js/main.c324d097.js",
+    "static/js/787.28cb0dcd.chunk.js": "/voetzaal/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/voetzaal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/voetzaal/index.html",
+    "main.073c9b0a.css.map": "/voetzaal/static/css/main.073c9b0a.css.map",
+    "main.c324d097.js.map": "/voetzaal/static/js/main.c324d097.js.map",
+    "787.28cb0dcd.chunk.js.map": "/voetzaal/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c324d097.js"
+  ]
+}
